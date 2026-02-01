@@ -16,6 +16,9 @@ dist-ssr
 # pnpm
 .pnpm-store
 
+# Vercel
+.vercel
+
 # Environment variables
 .env
 .env.local
